@@ -641,8 +641,7 @@
             "role": "customer",
             "location": "TP. Hồ Chí Minh",
             "age": 24,
-            "gender": "male",
-            "favor": []
+            "gender": "male"
         },
         {
             "id": 2,
