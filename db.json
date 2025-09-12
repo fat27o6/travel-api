@@ -1,61 +1,61 @@
 {
     "Provinces": [
         {
-            "_id": "656d93ad9d4c64bc7da733f6",
+            "id": "656d93ad9d4c64bc7da733f6",
             "name": "TP Hồ Chí Minh",
             "region": "Miền Nam",
             "image_banner": "https://example.com/tp_hồ_chí_minh.jpg"
         },
         {
-            "_id": "656d99079d4c64bc7da733fe",
+            "id": "656d99079d4c64bc7da733fe",
             "name": "Province 656d99079d4c64bc7da733fe",
             "region": "Khác",
             "image_banner": "https://example.com/province_656d99079d4c64bc7da733fe.jpg"
         },
         {
-            "_id": "656d8e9c9d4c64bc7da733ee",
+            "id": "656d8e9c9d4c64bc7da733ee",
             "name": "Hà Giang",
             "region": "Miền Bắc",
             "image_banner": "https://example.com/hà_giang.jpg"
         },
         {
-            "_id": "656d905f9d4c64bc7da733f0",
+            "id": "656d905f9d4c64bc7da733f0",
             "name": "Hà Nội",
             "region": "Miền Bắc",
             "image_banner": "https://example.com/hà_nội.jpg"
         },
         {
-            "_id": "656d870d9d4c64bc7da733e1",
+            "id": "656d870d9d4c64bc7da733e1",
             "name": "Province 656d870d9d4c64bc7da733e1",
             "region": "Khác",
             "image_banner": "https://example.com/province_656d870d9d4c64bc7da733e1.jpg"
         },
         {
-            "_id": "656da48a9d4c64bc7da73412",
+            "id": "656da48a9d4c64bc7da73412",
             "name": "Huế",
             "region": "Miền Trung",
             "image_banner": "https://example.com/huế.jpg"
         },
         {
-            "_id": "656d8ade9d4c64bc7da733e7",
+            "id": "656d8ade9d4c64bc7da733e7",
             "name": "Đà Nẵng",
             "region": "Miền Trung",
             "image_banner": "https://example.com/đà_nẵng.jpg"
         },
         {
-            "_id": "656d96ab9d4c64bc7da733f8",
+            "id": "656d96ab9d4c64bc7da733f8",
             "name": "Khánh Hòa",
             "region": "Miền Trung",
             "image_banner": "https://example.com/khánh_hòa.jpg"
         },
         {
-            "_id": "656d7f409d4c64bc7da733d9",
+            "id": "656d7f409d4c64bc7da733d9",
             "name": "An Giang",
             "region": "Miền Nam",
             "image_banner": "https://example.com/an_giang.jpg"
         },
         {
-            "_id": "656d90cd9d4c64bc7da733f3",
+            "id": "656d90cd9d4c64bc7da733f3",
             "name": "Province 656d90cd9d4c64bc7da733f3",
             "region": "Khác",
             "image_banner": "https://example.com/province_656d90cd9d4c64bc7da733f3.jpg"
@@ -63,567 +63,567 @@
     ],
     "Locations": [
         {
-            "_id": "658019fc1b57edbd32da4862",
+            "id": "658019fc1b57edbd32da4862",
             "name": "Đến Đà Nẵng,",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65806f7031187ab2940025d4",
+            "id": "65806f7031187ab2940025d4",
             "name": "Đến Hải Phòng",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580155cea4f736cf99f594b",
+            "id": "6580155cea4f736cf99f594b",
             "name": "Dinh Bảo Đại",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801eb7ee3b0b5e79dbab51",
+            "id": "65801eb7ee3b0b5e79dbab51",
             "name": "Đến Đà Nẵng,",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65806b9f31187ab29400259b",
+            "id": "65806b9f31187ab29400259b",
             "name": "Di chuyển đến",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65806de431187ab2940025ba",
+            "id": "65806de431187ab2940025ba",
             "name": "Đến Hải Phòng",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580186a1b57edbd32da4826",
+            "id": "6580186a1b57edbd32da4826",
             "name": "Phố Cổ Hội",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658021a5ee3b0b5e79dbac0b",
+            "id": "658021a5ee3b0b5e79dbac0b",
             "name": "Đến Nha Trang,",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65802132ee3b0b5e79dbabfd",
+            "id": "65802132ee3b0b5e79dbabfd",
             "name": "Di chuyển đến",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580193a1b57edbd32da483d",
+            "id": "6580193a1b57edbd32da483d",
             "name": "Nhà Thờ Đức",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658020baee3b0b5e79dbabe8",
+            "id": "658020baee3b0b5e79dbabe8",
             "name": "Đến Nha Trang,",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580202aee3b0b5e79dbabbe",
+            "id": "6580202aee3b0b5e79dbabbe",
             "name": "Nhà Hát Lớn",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801fa0ee3b0b5e79dbab93",
+            "id": "65801fa0ee3b0b5e79dbab93",
             "name": "Quảng trường Ba",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801152ea4f736cf99f58c5",
+            "id": "65801152ea4f736cf99f58c5",
             "name": "Rừng Tràm Trà",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65802219ee3b0b5e79dbac1c",
+            "id": "65802219ee3b0b5e79dbac1c",
             "name": "Đến Nha Trang,",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801fd5ee3b0b5e79dbaba6",
+            "id": "65801fd5ee3b0b5e79dbaba6",
             "name": "Di chuyển đến",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801ef8ee3b0b5e79dbab65",
+            "id": "65801ef8ee3b0b5e79dbab65",
             "name": "Nhà Hát Lớn",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658018b41b57edbd32da4832",
+            "id": "658018b41b57edbd32da4832",
             "name": "Nhà Thờ Đức",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658010b9ea4f736cf99f58b7",
+            "id": "658010b9ea4f736cf99f58b7",
             "name": "TP.HCM - THOẠI",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580789c31187ab294002660",
+            "id": "6580789c31187ab294002660",
             "name": "Đến Huế, tham",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65800fe0ea4f736cf99f58a6",
+            "id": "65800fe0ea4f736cf99f58a6",
             "name": "Rừng Tràm Trà",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801a521b57edbd32da4872",
+            "id": "65801a521b57edbd32da4872",
             "name": "Bảo tàng y",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801f2dee3b0b5e79dbab77",
+            "id": "65801f2dee3b0b5e79dbab77",
             "name": "Hồ Tây Hà",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658017e01b57edbd32da4812",
+            "id": "658017e01b57edbd32da4812",
             "name": "Chùa Linh Phước",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658013b0ea4f736cf99f5912",
+            "id": "658013b0ea4f736cf99f5912",
             "name": "Dinh Bảo Đại",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580198c1b57edbd32da484b",
+            "id": "6580198c1b57edbd32da484b",
             "name": "Phố Cổ Hội",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801291ea4f736cf99f58ea",
+            "id": "65801291ea4f736cf99f58ea",
             "name": "Cánh đồng Hoa",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801bac1b57edbd32da489f",
+            "id": "65801bac1b57edbd32da489f",
             "name": "Ngũ Hành Sơn",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801b671b57edbd32da4899",
+            "id": "65801b671b57edbd32da4899",
             "name": "Bảo tàng y",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65800f0aea4f736cf99f5891",
+            "id": "65800f0aea4f736cf99f5891",
             "name": "TP.HCM - THOẠI",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801e4cee3b0b5e79dbab3b",
+            "id": "65801e4cee3b0b5e79dbab3b",
             "name": "Bà Nà Hills",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580771331187ab294002646",
+            "id": "6580771331187ab294002646",
             "name": "Đến Huế, tham",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801f72ee3b0b5e79dbab8c",
+            "id": "65801f72ee3b0b5e79dbab8c",
             "name": "Ngày 1: Khởi",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580125cea4f736cf99f58e0",
+            "id": "6580125cea4f736cf99f58e0",
             "name": "Cánh đồng Hoa",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801adf1b57edbd32da488f",
+            "id": "65801adf1b57edbd32da488f",
             "name": "Phố Tây Bùi",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658018f71b57edbd32da4837",
+            "id": "658018f71b57edbd32da4837",
             "name": "Bưu điện Thành",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65805e8e31187ab294002516",
+            "id": "65805e8e31187ab294002516",
             "name": "Ngày 1: Khởi",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801a291b57edbd32da4868",
+            "id": "65801a291b57edbd32da4868",
             "name": "Bảo tàng lịch",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801e52ee3b0b5e79dbab3f",
+            "id": "65801e52ee3b0b5e79dbab3f",
             "name": "Văn miếu Quốc",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801e0dee3b0b5e79dbab36",
+            "id": "65801e0dee3b0b5e79dbab36",
             "name": "Ngày 1: Khởi",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580761931187ab294002639",
+            "id": "6580761931187ab294002639",
             "name": "Đến Hải Phòng",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801bae1b57edbd32da48a3",
+            "id": "65801bae1b57edbd32da48a3",
             "name": "Ngày 1: Khởi",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801e8fee3b0b5e79dbab49",
+            "id": "65801e8fee3b0b5e79dbab49",
             "name": "Văn miếu Quốc",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580122dea4f736cf99f58d7",
+            "id": "6580122dea4f736cf99f58d7",
             "name": "Cánh đồng Hoa",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658017091b57edbd32da47f5",
+            "id": "658017091b57edbd32da47f5",
             "name": "Dinh Bảo Đại",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658019f51b57edbd32da485e",
+            "id": "658019f51b57edbd32da485e",
             "name": "Bưu điện Thành",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658019651b57edbd32da4842",
+            "id": "658019651b57edbd32da4842",
             "name": "Bảo tàng lịch",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801c3d1b57edbd32da48b3",
+            "id": "65801c3d1b57edbd32da48b3",
             "name": "Bảo tàng lịch",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801fd0ee3b0b5e79dbaba1",
+            "id": "65801fd0ee3b0b5e79dbaba1",
             "name": "Ngày 1: Khởi",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801c691b57edbd32da48bf",
+            "id": "65801c691b57edbd32da48bf",
             "name": "Bảo tàng lịch",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658010fdea4f736cf99f58bc",
+            "id": "658010fdea4f736cf99f58bc",
             "name": "Búng Bình Thiên",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801fc8ee3b0b5e79dbab9d",
+            "id": "65801fc8ee3b0b5e79dbab9d",
             "name": "Đến Nha Trang,",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65802000ee3b0b5e79dbabb0",
+            "id": "65802000ee3b0b5e79dbabb0",
             "name": "Ngày 1: Khởi",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658016cb1b57edbd32da47e5",
+            "id": "658016cb1b57edbd32da47e5",
             "name": "Dinh Bảo Đại",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801cd61b57edbd32da48cf",
+            "id": "65801cd61b57edbd32da48cf",
             "name": "Nhà Hát Lớn",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801ffdee3b0b5e79dbabac",
+            "id": "65801ffdee3b0b5e79dbabac",
             "name": "Đến Nha Trang,",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580184e1b57edbd32da4822",
+            "id": "6580184e1b57edbd32da4822",
             "name": "Dinh Bảo Đại",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801363ea4f736cf99f5902",
+            "id": "65801363ea4f736cf99f5902",
             "name": "Dinh Bảo Đại",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658011c8ea4f736cf99f58d2",
+            "id": "658011c8ea4f736cf99f58d2",
             "name": "Búng Bình Thiên",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801bf01b57edbd32da48ae",
+            "id": "65801bf01b57edbd32da48ae",
             "name": "Bảo tàng y",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801b191b57edbd32da4894",
+            "id": "65801b191b57edbd32da4894",
             "name": "Nhà Thờ Đức",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801ec7ee3b0b5e79dbab57",
+            "id": "65801ec7ee3b0b5e79dbab57",
             "name": "Di chuyển đến",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65800f6aea4f736cf99f5896",
+            "id": "65800f6aea4f736cf99f5896",
             "name": "TP.HCM - THOẠI",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580215aee3b0b5e79dbac02",
+            "id": "6580215aee3b0b5e79dbac02",
             "name": "Đến Nha Trang,",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658017a61b57edbd32da480d",
+            "id": "658017a61b57edbd32da480d",
             "name": "Chùa Linh Phước",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580795d31187ab29400266a",
+            "id": "6580795d31187ab29400266a",
             "name": "Đến Huế, tham",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801cf41b57edbd32da48d8",
+            "id": "65801cf41b57edbd32da48d8",
             "name": "Phố Cổ Hội",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65807c5e31187ab2940026a0",
+            "id": "65807c5e31187ab2940026a0",
             "name": "Đến Huế, tham",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801c6b1b57edbd32da48c3",
+            "id": "65801c6b1b57edbd32da48c3",
             "name": "Đến Đà Nẵng,",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65802277ee3b0b5e79dbac25",
+            "id": "65802277ee3b0b5e79dbac25",
             "name": "Đến Nha Trang,",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580198c1b57edbd32da484f",
+            "id": "6580198c1b57edbd32da484f",
             "name": "Bưu điện Thành",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801a861b57edbd32da4882",
+            "id": "65801a861b57edbd32da4882",
             "name": "Phố Tây Bùi",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658019c81b57edbd32da4858",
+            "id": "658019c81b57edbd32da4858",
             "name": "Bưu điện Thành",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580720931187ab2940025f0",
+            "id": "6580720931187ab2940025f0",
             "name": "Đến Hải Phòng",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658017781b57edbd32da4807",
+            "id": "658017781b57edbd32da4807",
             "name": "Thác Datanla -",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65802104ee3b0b5e79dbabf7",
+            "id": "65802104ee3b0b5e79dbabf7",
             "name": "Di chuyển đến",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801189ea4f736cf99f58ca",
+            "id": "65801189ea4f736cf99f58ca",
             "name": "Búng Bình Thiên",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801d621b57edbd32da48ed",
+            "id": "65801d621b57edbd32da48ed",
             "name": "Ngũ Hành Sơn",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "6580205cee3b0b5e79dbabd1",
+            "id": "6580205cee3b0b5e79dbabd1",
             "name": "Di chuyển đến",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "65801bc41b57edbd32da48a7",
+            "id": "65801bc41b57edbd32da48a7",
             "name": "Bảo tàng y",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
             "image": "https://example.com/location.jpg"
         },
         {
-            "_id": "658018151b57edbd32da4818",
+            "id": "658018151b57edbd32da4818",
             "name": "Thác Datanla -",
             "province_id": null,
             "description": "Mô tả địa điểm sẽ được bổ sung.",
@@ -632,27 +632,45 @@
     ],
     "Users": [
         {
-            "_id": "u001",
-            "name": "Nguyen Van A",
+            "id": 1,
+            "name": "Nguyễn Văn A",
             "email": "vana@example.com",
             "password_hash": "hashed_password_123",
             "avatar": "https://example.com/avatar1.png",
             "phone": "0909123456",
-            "role": "customer"
+            "role": "customer",
+            "location": "TP. Hồ Chí Minh",
+            "age": 24,
+            "gender": "male"
         },
         {
-            "_id": "u002",
-            "name": "Tran Thi B",
+            "id": 2,
+            "name": "Trần Thị B",
             "email": "thib@example.com",
             "password_hash": "hashed_password_456",
             "avatar": "https://example.com/avatar2.png",
             "phone": "0909234567",
-            "role": "customer"
+            "role": "customer",
+            "location": "Hà Nội",
+            "age": 30,
+            "gender": "female"
+        },
+        {
+            "id": 3,
+            "name": "Nguyễn Quốc C",
+            "email": "quocc@example.com",
+            "password_hash": "hashed_password_789",
+            "avatar": "https://example.com/avatar3.png",
+            "phone": "0909234543",
+            "role": "customer",
+            "location": "Hà Nội",
+            "age": 25,
+            "gender": "male"
         }
     ],
     "Tours": [
         {
-            "_id": "65802be731187ab2940024b3",
+            "id": "65802be731187ab2940024b3",
             "province_id": "656d7f409d4c64bc7da733d9",
             "name": "Tour Châu Đốc ",
             "description": "An Giang gây ấn tượng mạnh mẽ với du khách bởi vẻ đẹp bình dị của vùng sông nước miền Tây sông nước, nơi có sự pha trộn và hội tụ của nhiều nền văn hóa đặc sắc của cộng đồng người Kinh, Khmer, Chăm, Hoa. Bên cạnh đó, An Giang còn níu chân nhều du khách bởi cảnh sắc thiên nhiên hữu tình, nên thơ bởi cánh đồng lúa xanh ngắt, hàng thốt nốt vút tận trời cao. Với địa hình vừa có đồng bằng, vừa có đồi núi, có dãy Thất Sơn huyền bí, nhiều di tích lịch sử, văn hóa và nhiều điểm check-in ấn tượng, An Giang đang là tọa độ thu hút đông đảo du khách.",
@@ -677,7 +695,7 @@
             "__v": 0
         },
         {
-            "_id": "6580fb256a92bab0efb76913",
+            "id": "6580fb256a92bab0efb76913",
             "province_id": "656d8e9c9d4c64bc7da733ee",
             "name": "Tour du lịch Hà Giang ",
             "description": "Tour Hà Giang là một hành trình thú vị để khám phá vẻ đẹp hoang sơ và hùng vĩ của vùng đất núi rừng phía Bắc Việt Nam.Điểm đầu tiên trong hành trình là Núi Đôi, một bức tranh thiên nhiên hoang sơ với hai ngọn núi song song.Tiếp theo, tour sẽ tiếp tục đến Cổng Quản Bạ, một địa điểm địa danh nổi tiếng của Hà Giang.Tour cũng đưa du khách đến Chợ Phiên Hà Giang, nơi có sự giao thoa của các dân tộc địa phương và văn hóa truyền thống.Cuối cùng, tour sẽ đến Thung Lũng Sủng Là, một thảo nguyên xanh mướt và rộng lớn tọa lạc giữa các ngọn núi.",
@@ -703,7 +721,7 @@
             "__v": 0
         },
         {
-            "_id": "6580fd086a92bab0efb76923",
+            "id": "6580fd086a92bab0efb76923",
             "province_id": "656d905f9d4c64bc7da733f0",
             "name": "Tour du lịch Hà Nội",
             "description": "Tour Hà Nội là một hành trình thú vị để khám phá những địa điểm nổi tiếng và độc đáo của thành phố. Tour bắt đầu bằng việc tham quan Hồ Tây, một hồ nước tự nhiên tuyệt đẹp.Tiếp theo, tour sẽ tiếp tục đến làng gốm Bát Tràng. Đây là một ngôi làng nổi tiếng với nghề gốm truyền thống.Cuối cùng, tour sẽ đến Chùa Một Cột, một di tích lịch sử và tôn giáo quan trọng của Hà Nội.",
@@ -729,7 +747,7 @@
             "__v": 0
         },
         {
-            "_id": "65811742c30e0515c36b544a",
+            "id": "65811742c30e0515c36b544a",
             "province_id": "656d8ade9d4c64bc7da733e7",
             "name": "Tour tham quan các địa điểm nổi bật tại Đà Nẵng",
             "description": "Chào mừng bạn đến với tour tham quan Đà Nẵng, một hành trình khám phá những điểm đến nổi tiếng của miền Trung Việt Nam.\r\nRừng Dừa Bảy Mẫu Hội An: Bắt đầu chuyến tham quan tại Rừng Dừa Bảy Mẫu, một khu bảo tồn thiên nhiên độc đáo nằm giữa lòng Hội An. Bạn sẽ được trải nghiệm cuộc sống đơn giản, yên bình của người dân địa phương khi tham gia các hoạt động như chèo thuyền dừa, câu cá và tận hưởng không khí trong lành của rừng dừa.\r\nNgũ Hành Sơn: Tiếp theo, chúng ta sẽ đến Ngũ Hành Sơn, một quần thể núi đá vôi nổi tiếng với các hang động tự nhiên và các ngôi chùa cổ. Bạn sẽ được chiêm ngưỡng vẻ đẹp hùng vĩ của các ngọn núi, khám phá những hang động huyền bí và tìm hiểu về văn hóa Phật giáo qua các ngôi chùa lịch sử.\r\nPhố Cổ Hội An: Cuối cùng, chúng ta sẽ ghé thăm Phố Cổ Hội An, một di sản văn hóa thế giới được UNESCO công nhận. Bạn sẽ được dạo bộ qua những con phố nhỏ xinh, chiêm ngưỡng những ngôi nhà cổ kính, thưởng thức ẩm thực địa phương và mua sắm tại các cửa hàng lưu niệm.\r\nChúng tôi tin rằng tour tham quan Đà Nẵng sẽ mang lại cho bạn những trải nghiệm đáng nhớ và thú vị. Hãy cùng chúng tôi khám phá và tận hưởng vẻ đẹp của miền Trung Việt Nam! ",
@@ -756,7 +774,7 @@
             "__v": 0
         },
         {
-            "_id": "658145b8650269141968c375",
+            "id": "658145b8650269141968c375",
             "province_id": "656d93ad9d4c64bc7da733f6",
             "name": "Tour khám phá TP Hồ Chí Minh",
             "description": "Tour Hồ Chí Minh là một hành trình thú vị để khám phá vẻ đẹp lịch sử và văn hóa của thành phố Hồ Chí Minh, trước đây được gọi là Sài Gòn.Điểm đầu tiên trong hành trình là Phố Tây Bùi Viện, một khu phố hấp dẫn và sôi động với nhiều quán bar, nhà hàng, quán cà phê và các hoạt động giải trí.Tiếp theo, tour sẽ tiếp tục đến Phố đi bộ Nguyễn Huệ, một con đường nổi tiếng và trung tâm của thành phố.Tour cũng đưa du khách đến Bảo tàng Lịch sử Thành phố Hồ Chí Minh, nơi lưu giữ và trưng bày các hiện vật, tư liệu về lịch sử và phát triển của thành phố.Cuối cùng, tour sẽ đến Chợ Bến Thành, một điểm đến nổi tiếng và sầm uất của thành phố.",
@@ -782,7 +800,7 @@
             "__v": 0
         },
         {
-            "_id": "6581481f650269141968c40d",
+            "id": "6581481f650269141968c40d",
             "province_id": "656d93ad9d4c64bc7da733f6",
             "name": "Tour dạo quanh TP Hồ Chí Minh",
             "description": "Tour Hồ Chí Minh là một hành trình thú vị để khám phá các điểm đến phổ biến và đặc biệt của thành phố Hồ Chí Minh. Điểm đầu tiên trong hành trình là Phố Tây Bùi Viện, một khu phố năng động và sôi động, nổi tiếng với các quán bar, nhà hàng, quán cà phê và hoạt động giải trí. Tiếp theo, tour sẽ tiếp tục đến Hầm Thủ Thiêm, một công trình ngầm độc đáo và ấn tượng nằm dưới lòng sông Sài Gòn. Tour cũng đưa du khách đến Bảo tàng Y học Cổ truyền, nơi trưng bày và lưu giữ các hiện vật và tư liệu liên quan đến y học truyền thống của Việt Nam. Cuối cùng, tour sẽ đến Địa đạo Củ Chi và Bến Nhà Rồng. Địa đạo Củ Chi là một hệ thống đường hầm ngầm rộng lớn từ thời kỳ chiến tranh, đã chứng kiến những cuộc chiến đấu khốc liệt.",
@@ -809,7 +827,7 @@
             "__v": 0
         },
         {
-            "_id": "658149e9650269141968c457",
+            "id": "658149e9650269141968c457",
             "province_id": "656d96ab9d4c64bc7da733f8",
             "name": "Tour khám phá Nha Trang",
             "description": "Chào mừng bạn đến với tour tham quan Nha Trang, một hành trình khám phá những điểm đến nổi tiếng của miền Trung Việt Nam.\r\n\r\nTháp Bà Ponagar: Bắt đầu chuyến tham quan tại Tháp Bà Ponagar, một di sản văn hóa lịch sử của người Chăm Pa. Bạn sẽ được chiêm ngưỡng kiến trúc độc đáo và tìm hiểu về văn hóa, lịch sử của người Chăm Pa.\r\n\r\nNhà thờ đá Nha Trang: Tiếp theo, chúng ta sẽ đến Nhà thờ đá Nha Trang, một công trình kiến trúc độc đáo với phong cách Gothic, mang dấu ấn của thời kỳ thuộc địa Pháp.\r\n\r\nHòn Vợ Hòn Chồng: Chúng ta sẽ tiếp tục hành trình bằng cách thăm Hòn Vợ Hòn Chồng, một điểm du lịch nổi tiếng với những hòn đá kỳ thú, tạo nên một khung cảnh thiên nhiên hùng vĩ và lãng mạn.\r\n\r\nBãi biển Nhũ Tiên: Cuối cùng, chúng ta sẽ ghé thăm Bãi biển Nhũ Tiên, một trong những bãi biển đẹp nhất Nha Trang. Bạn sẽ được thư giãn, tận hưởng không khí trong lành và ngắm nhìn vẻ đẹp của biển cả.",
@@ -837,7 +855,7 @@
             "__v": 0
         },
         {
-            "_id": "65815a25b7defcea2c7b6ccd",
+            "id": "65815a25b7defcea2c7b6ccd",
             "province_id": "656d93ad9d4c64bc7da733f6",
             "name": "Du lịch giáp tết 2024 - Hồ Chí Minh",
             "description": "Tour Hồ Chí Minh là một hành trình thú vị để khám phá các điểm đến phổ biến và đặc biệt của thành phố Hồ Chí Minh. Tour bao gồm các địa điểm nổi tiếng như Phố Tây Bùi Viện, Nhà Hát Lớn Thành phố Hồ Chí Minh, Bưu điện Thành phố Hồ Chí Minh, Chợ Bến Thành và Lanmask 81, Dinh Độc Lập sẽ mang đến cho du khách một trải nghiệm đa dạng về văn hóa, lịch sử, kiến trúc và giải trí của thành phố sôi động này.",
@@ -866,7 +884,7 @@
             "__v": 0
         },
         {
-            "_id": "65815a63b7defcea2c7b6cfc",
+            "id": "65815a63b7defcea2c7b6cfc",
             "province_id": "656d96ab9d4c64bc7da733f8",
             "name": "Tour khám phá đảo và bãi biển đẹp tại Khánh Hoà",
             "description": "Chào mừng bạn đến với tour tham quan Khánh Hoà, một hành trình khám phá những điểm đến nổi tiếng của miền Trung Việt Nam.\r\n\r\nBãi biển Đại Lãnh: Bắt đầu chuyến tham quan tại Bãi biển Đại Lãnh, một bãi biển tự nhiên tuyệt đẹp với cát trắng mịn và nước biển trong xanh.\r\n\r\nHòn Mun: Tiếp theo, chúng ta sẽ đến Hòn Mun, một khu bảo tồn thiên nhiên biển đầu tiên của Việt Nam, nơi bạn có thể tham gia các hoạt động như lặn biển, ngắm san hô.\r\n\r\nBãi biển Nhũ Tiên: Sau đó, chúng ta sẽ ghé thăm Bãi biển Nhũ Tiên, một trong những bãi biển đẹp nhất Nha Trang, nơi bạn có thể thư giãn và tận hưởng không khí trong lành của biển cả.\r\n\r\nViện Hải dương học Nha Trang: Cuối cùng, chúng ta sẽ thăm Viện Hải dương học Nha Trang, cơ sở nghiên cứu về biển lớn nhất Đông Nam Á",
@@ -895,7 +913,7 @@
             "__v": 0
         },
         {
-            "_id": "65815e8bc504cb0e8599341d",
+            "id": "65815e8bc504cb0e8599341d",
             "province_id": "656da48a9d4c64bc7da73412",
             "name": "Tour khám phá nét cổ kính của Huế",
             "description": "Đại Nội Huế: Là trung tâm chính trị, nơi cư trú của vua và hoàng gia triều Nguyễn. Đại Nội Huế gồm hơn 100 công trình kiến trúc bao gồm cung điện, miếu mạo, đình, đếm, tháp, cổng thành, hồ, ao, vườn hoa…\r\n\r\nTrường Quốc Học Huế: Một trong những ngôi trường cổ nhất Việt Nam, từng đào tạo nhiều nhân tài cho đất nước. Kiến trúc của trường mang dấu ấn của phong cách kiến trúc Pháp và Việt, tạo nên vẻ đẹp riêng, khác biệt.\r\n\r\nChùa Thiên Mụ: Biểu tượng của văn hóa Phật giáo tại Huế. Chùa có kiến trúc độc đáo với sự kết hợp hài hòa giữa không gian tự nhiên và kiến trúc nhân tạo.\r\n\r\nNúi Ngự Bình: Nổi tiếng với vẻ đẹp hùng vĩ, núi Ngự Bình được mệnh danh là “màn hình” của Huế.",
@@ -922,7 +940,7 @@
             "__v": 0
         },
         {
-            "_id": "6581636bc504cb0e859935f3",
+            "id": "6581636bc504cb0e859935f3",
             "province_id": "656d93ad9d4c64bc7da733f6",
             "name": "Tour du lịch khám phá Hồ Chí Minh tết 2024",
             "description": "Tour Hồ Chí Minh là một hành trình thú vị để khám phá các điểm đến phổ biến và đặc biệt của thành phố Hồ Chí Minh. Tour bao gồm các địa điểm nổi tiếng như Phố Tây Bùi Viện, Lanmask 81, Công Viên Nước Đầm Sen, Nhà Thờ Đức Bà, Khu vui chơi giải trí Snow Town Sài Gòn và Nhà Hát Thành phố lớn sẽ mang đến cho du khách một trải nghiệm đa dạng về văn hóa, lịch sử và giải trí của thành phố sôi động này.",
@@ -951,7 +969,7 @@
             "__v": 0
         },
         {
-            "_id": "65816bf7282abbb329aeb0db",
+            "id": "65816bf7282abbb329aeb0db",
             "province_id": "656d93ad9d4c64bc7da733f6",
             "name": "Tham quan TP Hồ Chí Minh -  Địa đạo Củ Chi",
             "description": "Tour Hồ Chí Minh là một hành trình thú vị để khám phá các điểm đến phổ biến và đặc biệt của thành phố Hồ Chí Minh. Tour bao gồm các địa điểm nổi tiếng như Phố Tây Bùi Viện, Phố đi bộ Nguyễn Huệ, Địa Đạo Củ, Thảo Cầm Viên, Khu du lịch Suối Tiên và Khu vui chơi giải trí Snow Town Sài Gòn. Du khách sẽ có cơ hội khám phá các điểm đến độc đáo và tận hưởng những trải nghiệm thú vị trong suốt hành trình.",
@@ -979,7 +997,7 @@
             "__v": 0
         },
         {
-            "_id": "65816c45282abbb329aeb0f2",
+            "id": "65816c45282abbb329aeb0f2",
             "province_id": "656d8ade9d4c64bc7da733e7",
             "name": "Du lịch Đà Nẵng từ Sài Gòn tết 2024",
             "description": "Tour Đà Nẵng với các địa điểm Phố Cổ Hội An, Bà Nà Hills, Bán Đảo Sơn Trà và Thánh Địa Mỹ Sơn sẽ mang đến cho du khách một trải nghiệm đa dạng về văn hóa, lịch sử và thiên nhiên của khu vực. Du khách sẽ có cơ hội khám phá những điểm đến đẹp và tận hưởng những trải nghiệm độc đáo trong suốt hành trình.",
@@ -1005,7 +1023,7 @@
             "__v": 0
         },
         {
-            "_id": "65816fe5282abbb329aeb1a2",
+            "id": "65816fe5282abbb329aeb1a2",
             "province_id": "656d90cd9d4c64bc7da733f3",
             "name": "Tour khám phá Hải Phòng",
             "description": "Tour khám phá Hải Phòng bao gồm:\r\n\r\nĐảo Bạch Long Vĩ: Đảo nằm giữa vịnh Bắc Bộ, cách đất liền khoảng 110km.\r\nPhố cổ Hải Phòng: Khu phố cổ Hải Phòng chính là phố Tam Bạc, Lý Thường Kiệt hiện nay.\r\nBãi biển Đồ Sơn: Biển Đồ Sơn là một bãi biển khá rộng với không gian thoáng đãng và lồng lộng gió.\r\nTháp Tường Long: Tháp Tường Long hiện nay thuộc phường Ngọc Xuyên, huyện Đồ Sơn, thành phố Hải Phòng.\r\nChúc bạn có một chuyến du lịch thú vị và đáng nhớ!.",
@@ -1033,7 +1051,7 @@
             "__v": 0
         },
         {
-            "_id": "65817004282abbb329aeb1c6",
+            "id": "65817004282abbb329aeb1c6",
             "province_id": "656d99079d4c64bc7da733fe",
             "name": "Tour Khám phá Đà Lạt tổng quát",
             "description": "Tour này mang đến một cái nhìn tổng quan về Đà Lạt, khám phá các điểm đến nổi tiếng và đặc trưng của thành phố. Bạn sẽ ghé thăm Dinh Bảo Đại, nơi từng là nơi cư ngụ của vị vua cuối cùng của Việt Nam. Thác Datanla sẽ đưa bạn vào một cuộc phiêu lưu trong rừng xanh, nơi bạn có thể tận hưởng khung cảnh thiên nhiên tuyệt đẹp và trải nghiệm các hoạt động như trượt dốc. Hồ Than Thở là một hồ nhân tạo thu hút khách du lịch bởi cảnh quan tuyệt đẹp và không khí trong lành. Chùa Linh Phước là một công trình tôn giáo độc đáo với kiến trúc đẹp mắt và những tượng Phật ấn tượng.",
@@ -1060,7 +1078,7 @@
             "__v": 0
         },
         {
-            "_id": "658170eb282abbb329aeb1e2",
+            "id": "658170eb282abbb329aeb1e2",
             "province_id": "656d8ade9d4c64bc7da733e7",
             "name": "Dạo quanh Đà Nẵng tuyệt đẹp gần tết 2024",
             "description": "Tour Đà Nẵng với các địa điểm Bà Nà Hills, Ngũ Hành Sơn, Công viên suối  khoáng nóng Thần Tài, Sông Hàn Đà Nẵng, Rừng Dừa Bảy Mẫu Hội An, Phố Cổ Hội An sẽ mang đến cho du khách một trải nghiệm đa dạng về văn hóa, lịch sử và thiên nhiên của khu vực. Du khách sẽ có cơ hội khám phá những điểm đến đẹp và tận hưởng những trải nghiệm độc đáo trong suốt hành trình.",
@@ -1089,7 +1107,7 @@
             "__v": 0
         },
         {
-            "_id": "65817191282abbb329aeb1f4",
+            "id": "65817191282abbb329aeb1f4",
             "province_id": "656d99079d4c64bc7da733fe",
             "name": " Tour du lịch tâm linh Đà Lạt",
             "description": "Tour này tập trung vào những điểm đến mang tính tâm linh và tôn giáo tại Đà Lạt. Bạn sẽ thăm Chùa Linh Phước, một ngôi chùa đẹp với kiến trúc độc đáo và những tượng Phật đồ sộ. Chùa Lâm Tỳ Ni là một ngôi chùa yên tĩnh và thiêng liêng, nơi bạn có thể tìm thấy sự yên bình và tịnh tâm. Chùa Linh Sơn tọa lạc trên một ngọn đồi, cung cấp khung cảnh tuyệt đẹp và không gian linh thiêng để tham quan và chiêm ngưỡng.",
@@ -1114,7 +1132,7 @@
             "__v": 0
         },
         {
-            "_id": "6581725f282abbb329aeb219",
+            "id": "6581725f282abbb329aeb219",
             "province_id": "656d8ade9d4c64bc7da733e7",
             "name": "Tour du lịch Đà Nẵng Tết Dương Lịch 2024",
             "description": "Tour Đà Nẵng với các địa điểm Phố Cổ Hội An, Bà Nà Hills, Bán Đảo Sơn Trà Đèo Hải Vân sẽ mang đến cho du khách một trải nghiệm đa dạng về văn hóa, lịch sử và thiên nhiên của khu vực. Du khách sẽ có cơ hội khám phá những điểm đến đẹp và tận hưởng những trải nghiệm độc đáo trong suốt hành trình.",
@@ -1140,7 +1158,7 @@
             "__v": 0
         },
         {
-            "_id": "6581727b282abbb329aeb22d",
+            "id": "6581727b282abbb329aeb22d",
             "province_id": "656d99079d4c64bc7da733fe",
             "name": "Du lịch mạo hiểm thác Đà Lạt",
             "description": "Tour này mang bạn đến các thác nước nổi tiếng và đẹp ở Đà Lạt. Bạn sẽ thăm các thác nước nổi tiếng như Thác Datanla, Thác Voi và Thác Pongour, nơi bạn có thể ngắm nhìn những cảnh quan tự nhiên tuyệt đẹp và thư giãn trong không gian xanh mát của rừng.",
@@ -1165,7 +1183,7 @@
             "__v": 0
         },
         {
-            "_id": "65817339282abbb329aeb257",
+            "id": "65817339282abbb329aeb257",
             "province_id": "656d870d9d4c64bc7da733e1",
             "name": "Tour khám phá Bình Định",
             "description": "Tour khám phá Bình Định sẽ đưa bạn đến với những địa điểm tuyệt vời sau:\r\n\r\nKỳ Co: Một trong những bãi biển đẹp nhất Việt Nam, nằm ẩn mình giữa núi non và biển cả, mang vẻ đẹp hoang sơ, mộc mạc.\r\nBãi Tắm Hoàng Hậu: Nơi này từng là nơi tắm của hoàng hậu, mang vẻ đẹp thơ mộng, lãng mạn.\r\nĐầm Thị Nại: Là một đầm phá lớn của Bình Định, nơi đây có cảnh sắc hữu tình với những con đường mòn hiên ngang, những cánh đồng muối trắng mịn.\r\nHòn Sẹo: Một hòn đảo nhỏ xinh xắn nằm giữa lòng biển, mang vẻ đẹp hoang sơ, quyến rũ.\r\nMũi Vi Rồng: Nổi tiếng với hình ảnh “rồng vươn mình ra biển”, mũi Vi Rồng là một trong những điểm du lịch độc đáo của Bình Định.\r\nEo Gió: Được mệnh danh là “vịnh Hạ Long phiên bản thu nhỏ”, Eo Gió sở hữu vẻ đẹp tự nhiên hoang sơ, độc đáo với những mỏm đá chênh vênh, nước biển trong xanh.\r\nChúc bạn có một chuyến du lịch thú vị và đáng nhớ tại Bình Định",
@@ -1197,7 +1215,7 @@
             "__v": 0
         },
         {
-            "_id": "658173f1282abbb329aeb279",
+            "id": "658173f1282abbb329aeb279",
             "province_id": "656d99079d4c64bc7da733fe",
             "name": "Tour Khám phá văn hóa Đà Lạt",
             "description": "Tour này tập trung vào việc khám phá văn hóa và đời sống của Đà Lạt. Bạn sẽ thăm Dinh Bảo Đại, nơi bạn có thể tìm hiểu thêm về lịch sử và văn hóa của Đà Lạt. Chùa Linh Phước và Chùa Lâm Tỳ Ni là những điểm dừng chân để tìm hiểu về tôn giáo và đời sống tâm linh tại thành phố này. Làng Lát là một khu du lịch văn hóa truyền thống, nơi bạn có thể khám phá nghề truyền thống và thưởng thức các sản phẩm thủ công đặc sản.",
@@ -1224,7 +1242,7 @@
             "__v": 0
         },
         {
-            "_id": "65817441282abbb329aeb2a5",
+            "id": "65817441282abbb329aeb2a5",
             "province_id": "656d8ade9d4c64bc7da733e7",
             "name": "Đến với Phố Cổ Hội An - Bà Nà Hill - Bán Đảo Sơn Trà  cùng Đà Nẵng",
             "description": "Trọn vẹn một ngày trải nghiệm cùng Đà Nẵng - Khu du lịch nổi tiếng nhất nhì với 3 địa điểm tham quan nổi bật : Phố Cổ Hội An, Bà Nà Hills, Bán Đảo Sơn Trà. Tại đây du khách sẽ có một trải nghiệm cực kì tuyệt vời và đáng nhớ với cảnh quang tươi đẹp cùng với không khí trong lành.",
@@ -1248,7 +1266,7 @@
             "__v": 0
         },
         {
-            "_id": "658179e4be1e666b03dab570",
+            "id": "658179e4be1e666b03dab570",
             "province_id": "656d96ab9d4c64bc7da733f8",
             "name": "Hành trình khám phá văn hoá tại Khánh Hoà",
             "description": "Tour “Hành trình khám phá văn hóa tại Khánh Hoà” sẽ đưa bạn đến với những địa điểm tuyệt vời sau:\r\n\r\nViện Hải Dương Nha Trang: Một trong những viện hải dương học lớn nhất Việt Nam, nơi trưng bày và giới thiệu về hệ sinh thái biển và các loài sinh vật biển.\r\nHòn Vợ Hòn Chồng: Một quần thể đá tự nhiên nằm trên biển, mang hình ảnh một cặp vợ chồng đang trò chuyện với nhau, là biểu tượng của tình yêu bền chặt.\r\nNhà thờ đá: Một công trình kiến trúc độc đáo với lối kiến trúc Gothic, mang dấu ấn của thời kỳ thuộc địa Pháp.\r\nTháp Bà Ponagar: Một ngôi đền cổ mang đậm nét kiến trúc của vương quốc Chăm cổ, là biểu tượng của nền văn hóa Chăm Pa.\r\nChúc bạn có một chuyến du lịch thú vị và đáng nhớ tại Khánh Hoà",
@@ -1276,7 +1294,7 @@
             "__v": 0
         },
         {
-            "_id": "658192a48aabc3714a7cbf9a",
+            "id": "658192a48aabc3714a7cbf9a",
             "province_id": "656d870d9d4c64bc7da733e1",
             "name": "Tour khám phá Bình Định",
             "description": "Tour khám phá Bình Định sẽ đưa bạn đến với những địa điểm tuyệt vời sau:\r\n\r\nKỳ Co: Một trong những bãi biển đẹp nhất Việt Nam, nằm ẩn mình giữa núi non và biển cả, mang vẻ đẹp hoang sơ, mộc mạc.\r\nBãi Tắm Hoàng Hậu: Nơi này từng là nơi tắm của hoàng hậu, mang vẻ đẹp thơ mộng, lãng mạn.\r\nĐầm Thị Nại: Là một đầm phá lớn của Bình Định, nơi đây có cảnh sắc hữu tình với những con đường mòn hiên ngang, những cánh đồng muối trắng mịn.\r\nHòn Sẹo: Một hòn đảo nhỏ xinh xắn nằm giữa lòng biển, mang vẻ đẹp hoang sơ, quyến rũ.\r\nMũi Vi Rồng: Nổi tiếng với hình ảnh “rồng vươn mình ra biển”, mũi Vi Rồng là một trong những điểm du lịch độc đáo của Bình Định.\r\nEo Gió: Được mệnh danh là “vịnh Hạ Long phiên bản thu nhỏ”, Eo Gió sở hữu vẻ đẹp tự nhiên hoang sơ, độc đáo với những mỏm đá chênh vênh, nước biển trong xanh.\r\nChúc bạn có một chuyến du lịch thú vị và đáng nhớ tại Bình Định",
@@ -1308,7 +1326,7 @@
             "__v": 0
         },
         {
-            "_id": "658192dae3a3682a1205ef9d",
+            "id": "658192dae3a3682a1205ef9d",
             "province_id": "656d905f9d4c64bc7da733f0",
             "name": "Khám phá Thủ Đô Hà Nội 2024",
             "description": "Hà Nội - mảnh đất ngàn năm văn hiến là một trong những điểm đến thu hút nhiều khách du lịch nhất trên toàn quốc. Với những kiến trúc cổ kính, những nét văn hóa thanh lịch, thân thiện của người Tràng An xưa cộng với nền ẩm thực đa dạng, không ai có thể rời khỏi Hà Nội mà không bỏ lại một chút lưu luyến. Chùa Một Cột, Quảng trường Ba Đình - Lăng Chủ Tịch Hồ Chí Minh  thủ đô Hà Nội còn sở hữu một số lượng bảo tàng đa dạng từ các lĩnh vực văn hóa, nghệ thuật đến quân sự, lịch sử.",
@@ -1331,7 +1349,7 @@
             "__v": 0
         },
         {
-            "_id": "6581967c341c2d1967d23e80",
+            "id": "6581967c341c2d1967d23e80",
             "province_id": "656d905f9d4c64bc7da733f0",
             "name": "Hà Nội Giáp tết 2024 với tour 2 ngày",
             "description": "Hà Nội - mảnh đất ngàn năm văn hiến là một trong những điểm đến thu hút nhiều khách du lịch nhất trên toàn quốc. Với những kiến trúc cổ kính, những nét văn hóa thanh lịch, thân thiện của người Tràng An xưa cộng với nền ẩm thực đa dạng, không ai có thể rời khỏi Hà Nội mà không bỏ lại một chút lưu luyến. Chùa Một Cột, Văn miếu Quốc Tử Giám, Phố Cổ Hà Nội, Làng Bát Tràng,  thủ đô Hà Nội còn sở hữu một số lượng bảo tàng đa dạng từ các lĩnh vực văn hóa, nghệ thuật đến quân sự, lịch sử.",
@@ -1357,7 +1375,7 @@
             "__v": 0
         },
         {
-            "_id": "6581980b341c2d1967d23e97",
+            "id": "6581980b341c2d1967d23e97",
             "province_id": "656d905f9d4c64bc7da733f0",
             "name": "Khám Phá vẻ đẹp văn hóa thủ đô Hà Nội",
             "description": "Hà Nội - mảnh đất ngàn năm văn hiến là một trong những điểm đến thu hút nhiều khách du lịch nhất trên toàn quốc. Với những kiến trúc cổ kính, những nét văn hóa thanh lịch, thân thiện của người Tràng An xưa cộng với nền ẩm thực đa dạng, không ai có thể rời khỏi Hà Nội mà không bỏ lại một chút lưu luyến. Chùa Một Cột, Văn miếu Quốc Tử Giám, Phố Cổ Hà Nội, Nhà Hát Lớn Hà Nội , Hoàng Thành Thăng Long Hà Nội,  Di Tích Chủ Tịch Hồ Chí Minh  thủ đô Hà Nội còn sở hữu một số lượng bảo tàng đa dạng từ các lĩnh vực văn hóa, nghệ thuật đến quân sự, lịch sử.",
@@ -1386,7 +1404,7 @@
             "__v": 0
         },
         {
-            "_id": "658199f7341c2d1967d23eb7",
+            "id": "658199f7341c2d1967d23eb7",
             "province_id": "656d905f9d4c64bc7da733f0",
             "name": "Tour du lịch Hà Nội nghìn văn hiến tết 2024",
             "description": "Trải nghiệm 2 ngày ở Hà Nội - mảnh đất ngàn năm văn hiến là một trong những điểm đến thu hút nhiều khách du lịch nhất trên toàn quốc. Với những kiến trúc cổ kính, những nét văn hóa thanh lịch, thân thiện của người Tràng An xưa cộng với nền ẩm thực đa dạng, không ai có thể rời khỏi Hà Nội mà không bỏ lại một chút lưu luyến. Chùa Một Cột, Làng Gốm Bát Tràng, Hoàng Thành Thanh Lonh Hà Nội , thủ đô Hà Nội còn sở hữu một số lượng bảo tàng đa dạng từ các lĩnh vực văn hóa, nghệ thuật đến quân sự, lịch sử. Ngoài ra du khách còn được dạo quanh ngắm ngía khung cảnh tuyệt đẹp Hồ Tây, Hồ Hoàn Kiếm Hà Nội",
@@ -1413,7 +1431,7 @@
             "__v": 0
         },
         {
-            "_id": "6581a488f67cf6bc83721e69",
+            "id": "6581a488f67cf6bc83721e69",
             "province_id": "656d99079d4c64bc7da733fe",
             "name": "Tour khám phá thiên nhiên Đà Lạt",
             "description": "Bạn sẽ thăm Thác Datanla, Thác Voi và Thác Pongour, nơi bạncó thể tận hưởng khung cảnh thiên nhiên tuyệt đẹp và ngắm nhìn những dòng nước mát lành. Tour này thích hợp cho những ai yêu thích khám phá và tận hưởng vẻ đẹp tự nhiên của Đà Lạt.",
@@ -1439,7 +1457,7 @@
             "__v": 0
         },
         {
-            "_id": "6581a647f67cf6bc83721e94",
+            "id": "6581a647f67cf6bc83721e94",
             "province_id": "656d7f409d4c64bc7da733d9",
             "name": "Khám phá thảo nguyên và hồ nước",
             "description": "Khám phá rừng tràm đặc trưng của vùng ĐBSCL, trải nghiệm du thuyền trên dòng sông nổi tiếng. Tham quan hồ nước tự nhiên và ngắm cảnh Núi Sập, một địa điểm du lịch nổi tiếng. Tận hưởng không gian yên bình và cảnh quan đẹp của hồ nước. Tham quan Khu Thất Sơn, nơi có những ngọn núi nhỏ và hệ thống đền thờ độc đáo.",
@@ -1464,7 +1482,7 @@
             "__v": 0
         },
         {
-            "_id": "6581b45df67cf6bc83721fcd",
+            "id": "6581b45df67cf6bc83721fcd",
             "province_id": "656d7f409d4c64bc7da733d9",
             "name": "Khám phá cảnh quan thiên nhiên đa dạng - An Giang",
             "description": "Ghé thăm khu vực đất ngập nước và tham quan các cánh đồng lúa và cây cỏ đặc trưng. Leo lên đỉnh núi để ngắm cảnh toàn cảnh của vùng ĐBSCL và thưởng ngoạn vẻ đẹp tự nhiên. Tham quan Khu Thất Sơn và khám phá những hòn đá độc đáo và các ngôi đền thờ tại đây.  Trải nghiệm trên con đường đẹp mắt và thưởng ngoạn cảnh quan thiên nhiên xung quanh. Tận hưởng không gian yên bình và ngắm nhìn cảnh quan hồ nước đẹp.",
@@ -1492,7 +1510,7 @@
             "__v": 0
         },
         {
-            "_id": "6581b5fdf67cf6bc83722023",
+            "id": "6581b5fdf67cf6bc83722023",
             "province_id": "656d7f409d4c64bc7da733d9",
             "name": "Du lịch vùng đồng bằng sông Cửu Long - An Giang",
             "description": "Tham quan cánh đồng hoa dừa cạn và tận hưởng khung cảnh độc đáo của vùng đồng bằng. Tận hưởng không gian yên bình và ngắm nhìn cảnh quan hồ nước đẹp. Ghé thăm hòn đảo nhỏ Cù lao Giêng và khám phá cảnh quan và đời sống của người dân địa phương. Tham quan Khu Thất Sơn và chiêm ngưỡng những ngọn núi và đền thờ độc đáo. Tham gia du thuyền trên dòng sông và khám phá rừng tràm đặc trưng của vùng ĐBSCL.",
@@ -1519,7 +1537,7 @@
             "__v": 0
         },
         {
-            "_id": "6581bd458b4369ebff0f54b6",
+            "id": "6581bd458b4369ebff0f54b6",
             "province_id": "656d7f409d4c64bc7da733d9",
             "name": "Hành trình tâm linh và văn hóa - An Giang",
             "description": "Tận hưởng một bầu không khí yên tĩnh và quang cảnh thiên nhiên tuyệt đẹp. Chiêm ngưỡng cảnh quan tuyệt đẹp của khu thắng cảnh đá vôi. Tham quan hồ nước xanh ngắt và tận hưởng không gian yên bình.",
@@ -1544,7 +1562,7 @@
             "__v": 0
         },
         {
-            "_id": "65823adc88a558c24dc6bf29",
+            "id": "65823adc88a558c24dc6bf29",
             "province_id": "656d96ab9d4c64bc7da733f8",
             "name": "Hành trình khám phá biển đảo tại Khánh Hoà",
             "description": "Chào mừng bạn đến với tour khám phá biển đảo Khánh Hoà, nơi bạn sẽ được trải nghiệm những điểm đến tuyệt vời nhất .\r\n\r\nBãi biển Tiên Nhũ: Chúng ta sẽ ghé thăm Bãi biển Tiên Nhũ, nơi có cảnh quan thiên nhiên tươi đẹp với bãi cát trắng mịn và nước biển trong xanh. \r\n\r\nĐảo Hòn Mun: Tiếp theo, chúng ta sẽ khám phá Đảo Hòn Mun, một trong những điểm lặn biển đẹp nhất Việt Nam. Bạn sẽ có cơ hội ngắm nhìn đa dạng sinh vật biển và san hô màu sắc.\r\n\r\nNhà thờ đá: Chúng ta sẽ tiếp tục hành trình bằng cách thăm Nhà thờ đá, một công trình kiến trúc độc đáo được xây dựng hoàn toàn từ đá.\r\n\r\nViện Hải dương: Cuối cùng, chúng ta sẽ thăm Viện Hải dương, nơi bạn có thể tìm hiểu về đa dạng sinh vật biển và các nghiên cứu khoa học về môi trường biển.\r\n\r\nTour khám phá biển đảo Khánh Hoà chắc chắn sẽ mang lại cho bạn những trải nghiệm đáng nhớ. Hãy cùng chúng tôi khám phá vẻ đẹp tiềm ẩn của biển đảo Khánh Hoà!",
@@ -1574,8 +1592,8 @@
     ],
     "Bookings": [
         {
-            "_id": "b001",
-            "user_id": "u001",
+            "id": 1,
+            "user_id": 1,
             "tour_id": "658149e9650269141968c457",
             "seats_booked": 2,
             "total_price": 9000000,
@@ -1586,8 +1604,8 @@
             "coupon_code": "TET2025"
         },
         {
-            "_id": "b002",
-            "user_id": "u002",
+            "id": 2,
+            "user_id": 2,
             "tour_id": "658145b8650269141968c375",
             "seats_booked": 1,
             "total_price": 490000,
@@ -1600,17 +1618,17 @@
     ],
     "Reviews": [
         {
-            "_id": "r001",
+            "id": 1,
             "tour_id": "658149e9650269141968c457",
-            "user_id": "u001",
+            "user_id": 1,
             "rating": 5,
             "comment": "Tour Nha Trang rất tuyệt vời, hướng dẫn viên thân thiện.",
             "created_at": "2023-12-27T12:00:00Z"
         },
         {
-            "_id": "r002",
+            "id": 2,
             "tour_id": "658145b8650269141968c375",
-            "user_id": "u002",
+            "user_id": 2,
             "rating": 4,
             "comment": "TP.HCM nhộn nhịp, lịch trình hợp lý.",
             "created_at": "2023-12-31T18:00:00Z"
@@ -1618,19 +1636,19 @@
     ],
     "Favorites": [
         {
-            "_id": "f001",
-            "user_id": "u001",
+            "id": 1,
+            "user_id": 1,
             "tour_id": "65815e8bc504cb0e8599341d"
         },
         {
-            "_id": "f002",
-            "user_id": "u002",
+            "id": 2,
+            "user_id": 2,
             "tour_id": "65811742c30e0515c36b544a"
         }
     ],
     "Coupons": [
         {
-            "_id": "c001",
+            "id": 1,
             "code": "TET2025",
             "description": "Giảm 10% cho tour Tết 2025",
             "discount_type": "percent",
@@ -1642,7 +1660,7 @@
             "status": "active"
         },
         {
-            "_id": "c002",
+            "id": 2,
             "code": "SUMMER25",
             "description": "Giảm 500k cho tour hè 2025",
             "discount_type": "fixed",
