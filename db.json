@@ -654,8 +654,7 @@
             "role": "customer",
             "location": "Hà Nội",
             "age": 30,
-            "gender": "female",
-            "favor": []
+            "gender": "female"
         },
         {
             "id": 3,
@@ -667,8 +666,7 @@
             "role": "customer",
             "location": "Cần Thơ",
             "age": 25,
-            "gender": "male",
-            "favor": []
+            "gender": "male"
         }
     ],
     "Tours": [
@@ -1647,6 +1645,26 @@
             "id": 2,
             "user_id": 2,
             "tour_id": "65811742c30e0515c36b544a"
+        },
+        {
+            "id": 3,
+            "user_id": 3,
+            "tour_id": "65811742c30e0515c36b544a"
+        },
+        {
+            "id": 4,
+            "user_id": 3,
+            "tour_id": "6580fd086a92bab0efb76923"
+        },
+        {
+            "id": 5,
+            "user_id": 3,
+            "tour_id": "65802be731187ab2940024b3"
+        },
+        {
+            "id": 6,
+            "user_id": 3,
+            "tour_id": "6581481f650269141968c40d"
         }
     ],
     "Coupons": [
