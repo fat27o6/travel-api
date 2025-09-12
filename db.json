@@ -636,36 +636,39 @@
             "name": "Nguyễn Văn A",
             "email": "vana@example.com",
             "password_hash": "hashed_password_123",
-            "avatar": "https://example.com/avatar1.png",
+            "avatar": "https://icons.veryicon.com/png/o/miscellaneous/user-avatar/user-avatar-male-5.png",
             "phone": "0909123456",
             "role": "customer",
             "location": "TP. Hồ Chí Minh",
             "age": 24,
-            "gender": "male"
+            "gender": "male",
+            "favor": []
         },
         {
             "id": 2,
             "name": "Trần Thị B",
             "email": "thib@example.com",
             "password_hash": "hashed_password_456",
-            "avatar": "https://example.com/avatar2.png",
+            "avatar": "https://icons.veryicon.com/png/o/miscellaneous/user-avatar/user-avatar-male-5.png",
             "phone": "0909234567",
             "role": "customer",
             "location": "Hà Nội",
             "age": 30,
-            "gender": "female"
+            "gender": "female",
+            "favor": []
         },
         {
             "id": 3,
-            "name": "Nguyễn Quốc C",
-            "email": "quocc@example.com",
-            "password_hash": "hashed_password_789",
-            "avatar": "https://example.com/avatar3.png",
+            "name": "baotrn",
+            "email": "tbao@gmail.com",
+            "password_hash": "651347a@",
+            "avatar": "https://icons.veryicon.com/png/o/miscellaneous/user-avatar/user-avatar-male-5.png",
             "phone": "0909234543",
             "role": "customer",
-            "location": "Hà Nội",
+            "location": "Cần Thơ",
             "age": 25,
-            "gender": "male"
+            "gender": "male",
+            "favor": []
         }
     ],
     "Tours": [
